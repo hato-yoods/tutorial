@@ -1,3 +1,4 @@
 AAAAA
 add change 
 commit registred
+pull remote repository get
